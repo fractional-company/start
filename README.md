@@ -15,6 +15,10 @@ If you have any $APE coin staked or Parallel Cards in a Parallel binder, you can
 
 For any questions, please visit the [Discord](http://discord.gg/tessera](https://discord.gg/Z3hYzXtPMK ).
 
+Developer Docs 
+- [Fractional Protocol Docs GitBook.pdf](https://github.com/user-attachments/files/21266413/Fractional.Protocol.Docs.GitBook.pdf)
+- [Tessera Protocol Docs GitBook.pdf](https://github.com/user-attachments/files/21266416/Tessera.Protocol.Docs.GitBook.pdf)
+
 Additional Links:
 - [Blog Posts](https://medium.com/tessera-nft)
 - [LinkTree](https://linktr.ee/tesseranft)
