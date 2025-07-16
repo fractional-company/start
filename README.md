@@ -6,7 +6,7 @@ If you bought NFTs on http://escher.xyz (@escherxyz), you will be able to buy or
 If you used fractional.art, an opensource version of the site is available on Arweave's permaweb [here](https://hfpy5gnfkd252abp6cqdemjakq7qwbusc7bpbnvvxjd2q62j3qvq.arweave.net/OV-OmaVQ9d0AL_CgMjEgVD8LBpIXwvC2tbpHqHtJ3Cs/#/
 ).
 
-For any questions, please visit the [Discord](http://discord.gg/tessera](https://discord.gg/Z3hYzXtPMK).
+For any questions, please visit the [Discord](http://discord.gg/tessera](https://discord.gg/Z3hYzXtPMK ).
 
 Additional Links:
 - [Blog Posts](https://medium.com/tessera-nft)
