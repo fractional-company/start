@@ -1,4 +1,4 @@
-# Start
+# Wind-down Information
 Information retained for historical purposes | Platforms no longer in operation and shutdown on September 1st, 2021.
 
 If you bought NFTs on http://escher.xyz (@escherxyz), you will be able to buy or sell them NFTs on other NFT marketplaces.
