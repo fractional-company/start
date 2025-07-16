@@ -6,6 +6,13 @@ If you bought NFTs on escher.xyz (@escherxyz), you will be able to buy or sell t
 If you used fractional.art, an opensource version of the site is available on Arweave's permaweb [here](https://hfpy5gnfkd252abp6cqdemjakq7qwbusc7bpbnvvxjd2q62j3qvq.arweave.net/OV-OmaVQ9d0AL_CgMjEgVD8LBpIXwvC2tbpHqHtJ3Cs/#/
 ).
 
+If you have any $APE coin staked or Parallel Cards in a Parallel binder, you can withdraw them by reading the following guides:
+
+- [Withdrawing $APE](https://docs.google.com/document/d/1lT3lPuMe09pSz5KcrqHC2VZm6evZmAqG34fXkDAEm5Q/edit?usp=sharing
+)
+
+- [Withdrawing Parallel Cards:](https://docs.google.com/document/d/1InI_DjLyLfk7hIGpfhE_pYftP0aAmKhCItWSQjGAAmQ/edit#heading=h.86fya3o91fi6)
+
 For any questions, please visit the [Discord](http://discord.gg/tessera](https://discord.gg/Z3hYzXtPMK ).
 
 Additional Links:
